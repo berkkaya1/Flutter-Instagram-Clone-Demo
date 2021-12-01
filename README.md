@@ -1,4 +1,4 @@
-# sociaworld
+# Simple Instagram Interface Clone
 
 A new Flutter project.
 
