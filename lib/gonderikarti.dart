@@ -118,7 +118,7 @@ class GonderiKarti extends StatelessWidget {
                       print("Yorum Yap");
                     },
                   ),
-                  FlatButton.icon(
+                  TextButton.icon(
                       onPressed: () {},
                       icon: Icon(
                         Icons.share,
